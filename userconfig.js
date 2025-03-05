@@ -21,12 +21,6 @@ const default_config = {
               icon_color: palette.blue,
             },
             {
-              name: "classroom",
-              url: "https://classroom.google.com/u/1/",
-              icon: "books",
-              icon_color: palette.green,
-            },
-            {
               name: "docs",
               url: "https://docs.google.com/document/u/0/",
               icon: "file-text",
@@ -49,12 +43,6 @@ const default_config = {
               icon: "brand-reddit",
               icon_color: palette.peach,
             },
-            {
-              name: "twitter",
-              url: "https://x.com",
-              icon: "brand-x",
-              icon_color: palette.text,
-            },
           ],
         },
         {
@@ -71,12 +59,6 @@ const default_config = {
               url: "https://devdocs.io",
               icon: "code",
               icon_color: palette.blue,
-            },
-            {
-              name: "hacker-news",
-              url: "https://news.ycombinator.com",
-              icon: "news",
-              icon_color: palette.peach,
             },
           ],
         },
